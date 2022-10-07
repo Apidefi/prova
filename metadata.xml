@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ProjectMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VersionMajor>2022</VersionMajor>
+  <VersionMinor>2</VersionMinor>
+  <VersionBuild>9</VersionBuild>
+  <VersionRevision>0</VersionRevision>
+  <Circuit />
+  <IsOpen>false</IsOpen>
+  <LastSave>2022-10-04T14:52:38.8778305+02:00</LastSave>
+  <Description>A short description of your website content, what you talk about and who you are talking to. We suggest you add  this text to tell your users what you are talking about in your website before they come and visit. It will be amongst search engine results.</Description>
+  <AutomaticBackupRemoval>true</AutomaticBackupRemoval>
+  <RemoveBackupAfterDays>30</RemoveBackupAfterDays>
+  <BackupToKeepAtLeast>5</BackupToKeepAtLeast>
+  <FreshlyImported>false</FreshlyImported>
+  <ResetKeys>false</ResetKeys>
+  <ProjectStatsData>eyJMYXN0RXhwb3J0IjoiMjAyMi0xMC0wMyAyMjowMDowMCIsIlBhZ2VzQ291bnQiOjMsIlBhZ2VzUm93c0NvdW50IjoyMSwiUHJvZHVjdHNDb3VudCI6NSwiQmxvZ1Bvc3RzQ291bnQiOjAsIlJTU1Bvc3RzQ291bnQiOjAsIlJlc3BvbnNpdmUiOnRydWV9</ProjectStatsData>
+</ProjectMetadata>
